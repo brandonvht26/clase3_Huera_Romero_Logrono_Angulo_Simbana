@@ -4,6 +4,7 @@ public class Conf_UsuarioE {
 
     //Atributos
     //Logroño cambio Idioma Chino
+    // Hola mundo: Brandito c:
     private String idioma;
     private  String[] idiomas_validos={"Español","Chino","Francés"};
     private boolean notificacion;
