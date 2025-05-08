@@ -3,8 +3,9 @@ package Simbana.Ejercicio04_Encapsulamiento;
 public class Conf_UsuarioE {
 
     //Atributos
+    //Logroño cambio Idioma Chino
     private String idioma;
-    private  String[] idiomas_validos={"Español","Ingles","Francés"};
+    private  String[] idiomas_validos={"Español","Chino","Francés"};
     private boolean notificacion;
 
 
